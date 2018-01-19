@@ -1,24 +1,14 @@
-# README
+# Snap Share Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A RoR app designed for people to create their own galleries or portfoloios
 
-Things you may want to cover:
 
-* Ruby version
+### App features:
 
-* System dependencies
+* Real time chat
 
-* Configuration
+* Blog / Posts / Categories
 
-* Database creation
+* Galleries / Portfolios
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Drag and drop interface
